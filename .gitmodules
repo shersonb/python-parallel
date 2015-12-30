@@ -1,0 +1,3 @@
+[submodule "python-iqueue"]
+	path = python-iqueue
+	url = https://github.com/shersonb/python-iqueue
